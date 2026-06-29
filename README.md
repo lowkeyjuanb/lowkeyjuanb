@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Juan de Dios Barrera
 
-### 💻 Software Developer | 📍 Oceanside, CA, US
+### 💻 Software Developer | 📍 CA, US
 
 I'm passionate about helping businesses achieve their goals through **software development**. With experience in **web** and **mobile development**, I enjoy building scalable solutions and tackling real-world challenges.
 
@@ -30,7 +30,7 @@ I'm passionate about helping businesses achieve their goals through **software d
 ---
 
 ## 📫 Get in Touch
-- 🌐 **Portfolio**: [My Portfolio](https://juanbarrera.netlify.app/)
+- 🌐 **Portfolio**: [My Portfolio](https://jbarrera.dev/)
 - 💼 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/juandediosbarrera/)
 - 💻 **GitHub**: [github.com/lowkeyjuanb](https://github.com/lowkeyjuanb)
 
