@@ -1,44 +1,46 @@
-# Hi there 👋 I'm Juan de Dios Barrera
+# JUAN BARRERA
 
-### 💻 Software Developer | 📍 CA, US
+Software Engineer | Full-Stack & Mobile
 
-I'm passionate about helping businesses achieve their goals through **software development**. With experience in **web** and **mobile development**, I enjoy building scalable solutions and tackling real-world challenges.
+I’m a software engineer with 3 years of experience building mobile, web, backend, and cloud applications. My work spans Flutter, .NET, Next.js, AWS, Azure, databases, API integrations, real-time systems, and production deployments.
 
----
+I also build AI agents and multi-agent workflows for specialized business processes.
 
-## 🚀 About Me
-- 🎓 **Magna Cum Laude** graduate in **Electronic Cybernetics Engineering** from CETYS Universidad
-- 🎓 Bachelor of Arts in **Management** from City University of Seattle
-- 💼 Experience in **Full-Stack Development**, **Back-End Systems**, and **Mobile Applications**
-- ⚙️ Skilled in **Python, JavaScript, Dart, C++, Java, SQL**
-- 🎨 Web Development: **HTML, CSS, Tailwind, React, Django, MySQL**
-- 🌱 Currently expanding my skills in **iOS Development** and **Objective-C**
-- ✨ Passionate about building clean, user-friendly interfaces and robust back-end systems
+## Experience
 
----
+- Full-stack and mobile application development
+- Flutter and .NET MAUI
+- .NET / C# backend development
+- React and Next.js
+- AWS and Azure infrastructure
+- REST APIs, WebSockets, and SignalR
+- MySQL, PostgreSQL, Firebase, and Supabase
+- AI agents, LLM applications, and automated workflows
 
-## 🔧 Technologies & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+## Technologies
 
----
+**Languages**  
+C#, Dart, TypeScript, JavaScript, Python, Java, C++, SQL, PHP, HTML/CSS
 
-## 📫 Get in Touch
-- 🌐 **Portfolio**: [My Portfolio](https://jbarrera.dev/)
-- 💼 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/juandediosbarrera/)
-- 💻 **GitHub**: [github.com/lowkeyjuanb](https://github.com/lowkeyjuanb)
+**Frameworks & Platforms**  
+Flutter, .NET MAUI, .NET, React, Next.js, Node.js, Django
 
----
+**Cloud & Data**  
+AWS, Azure, MySQL, PostgreSQL, Prisma, Firebase, Supabase
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lowkeyjuanb&show_icons=true&theme=radical)
+**Tools**  
+Git, GitHub, Postman, Figma, Nginx, PM2
 
----
+## Education
 
-Thanks for stopping by! 🚀✨
+**CETYS University**  
+Bachelor of Electronic Cybernetics Engineering  
+Magna Cum Laude
+
+**City University of Seattle**  
+Bachelor of Arts in Management
+
+## Links
+
+[Portfolio](https://jbarrera.dev/)  
+[LinkedIn](https://www.linkedin.com/in/juandediosbarrera/)
